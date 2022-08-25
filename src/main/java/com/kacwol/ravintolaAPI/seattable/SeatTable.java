@@ -1,4 +1,4 @@
-package com.kacwol.ravintolaAPI.reservation;
+package com.kacwol.ravintolaAPI.seattable;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

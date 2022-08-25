@@ -1,4 +1,4 @@
-package com.kacwol.ravintolaAPI.menu;
+package com.kacwol.ravintolaAPI.menu.model;
 
 public enum MealCategory {
 
