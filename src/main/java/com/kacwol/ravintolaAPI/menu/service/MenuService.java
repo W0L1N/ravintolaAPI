@@ -36,6 +36,7 @@ public class MenuService {
         return repo.findAll().stream().map(mapper::entityToDto).toList();
     }
 
+
     public void deleteMeal(Long id) {
         repo.deleteById(id);
     }
