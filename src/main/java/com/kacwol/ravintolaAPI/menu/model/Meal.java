@@ -28,13 +28,12 @@ public class Meal {
 
     private MealCategory mealCategory;
 
-    private long weight;
+    private Long weight;
 
     private double price;
 
     private String imageSrc;
 
     private boolean isRecommended;
-
 
 }

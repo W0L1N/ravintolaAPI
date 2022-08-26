@@ -32,8 +32,8 @@ public class MenuService {
         return mapper.entityToDto(getMealEntity(id));
     }
 
-    public List<MealDto> getAllMeals() {
-        return repo.findAll().stream().map(mapper::entityToDto).toList();
+    public List<Meal> getAllMeals() {
+        return repo.findAll();
     }
 
     public void deleteMeal(Long id) {

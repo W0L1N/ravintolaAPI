@@ -2,6 +2,6 @@ package com.kacwol.ravintolaAPI.menu.model;
 
 public enum MealCategory {
 
-    MAIN,SOUP,FISH,SALAD,SNACK,DRINK,HOT_DRINK,DESSERT,FOR_KIDS,VEGAN_MEAL
+    SNACK,SOUP,MAIN,FISH,FOR_KIDS,SALAD,DESSERT,DRINK
 
 }
