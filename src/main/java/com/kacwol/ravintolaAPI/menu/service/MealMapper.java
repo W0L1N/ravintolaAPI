@@ -18,6 +18,7 @@ public class MealMapper {
                 .description(dto.getDescription())
                 .price(dto.getPrice())
                 .mealCategory(dto.getMealCategory())
+                .weight(dto.getWeight())
                 .imageSrc(dto.getImageSrc())
                 .isRecommended(dto.isRecommended())
                 .build();
@@ -29,6 +30,7 @@ public class MealMapper {
                 .description(entity.getDescription())
                 .price(entity.getPrice())
                 .mealCategory(entity.getMealCategory())
+                .weight(entity.getWeight())
                 .imageSrc(entity.getImageSrc())
                 .isRecommended(entity.isRecommended())
                 .build();

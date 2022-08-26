@@ -28,6 +28,8 @@ public class Meal {
 
     private MealCategory mealCategory;
 
+    private long weight;
+
     private double price;
 
     private String imageSrc;
