@@ -1,5 +1,8 @@
 # ravintolaAPI
 
+
+(Further updates will be pushed on -> https://github.com/Vekaltor/ravintola-app)
+
 Basic API for ravintola application ->  https://github.com/Vekaltor/ravintola
 
 Present features:
